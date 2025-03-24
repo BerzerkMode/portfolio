@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "Virágbolt",
-        "photo_url": "...",
+        "photo_url": "https://res.cloudinary.com/djwpme8m9/image/upload/v1742814178/viragbolt_xx2mld.png",
         "repo-link": "https://github.com/BerzerkMode/viragbolt",
         "topics": [
             "fetch API",
@@ -17,7 +17,7 @@
     {
         "id": "2",
         "title": "Gyümölcsök",
-        "photo_url": "...",
+        "photo_url": "https://res.cloudinary.com/djwpme8m9/image/upload/v1742814178/gyumolcsok_rdwprh.png",
         "repo-link": "https://github.com/BerzerkMode/fruits",
         "topics": [
             "fetch API",
@@ -32,7 +32,7 @@
     {
         "id": "3",
         "title": "Profil",
-        "photo_url": "...",
+        "photo_url": "https://res.cloudinary.com/djwpme8m9/image/upload/v1742814178/profil_pli8mc.png",
         "repo-link": "https://github.com/BerzerkMode/profile",
         "topics": [
             "fetch API",
@@ -46,38 +46,8 @@
     },
     {
         "id": "4",
-        "title": "Kereső",
-        "photo_url": "...",
-        "repo-link": "https://github.com/BerzerkMode/search",
-        "topics": [
-            "fetch API",
-            "Set adatszerkezet",
-            "Array.from()",
-            "radió gombok használata",
-            "checkboxok használata",
-            "select használata"
-        ],
-        "site-link": "https://berzerkmode.github.io/search/"
-    },
-    {
-        "id": "5",
-        "title": "Csengetés",
-        "photo_url": "...",
-        "repo-link": "https://github.com/BerzerkMode/csengetes",
-        "topics": [
-            "fetch API",
-            "Set adatszerkezet",
-            "Array.from()",
-            "radió gombok használata",
-            "checkboxok használata",
-            "select használata"
-        ],
-        "site-link": "https://berzerkmode.github.io/csengetes/"
-    },
-    {
-        "id": "6",
         "title": "BMI",
-        "photo_url": "...",
+        "photo_url": "https://res.cloudinary.com/djwpme8m9/image/upload/v1742814177/bmi_wrzpfx.png",
         "repo-link": "https://github.com/BerzerkMode/bmi",
         "topics": [
             "fetch API",
@@ -90,9 +60,9 @@
         "site-link": "https://berzerkmode.github.io/bmi/"
     },
     {
-        "id": "7",
+        "id": "5",
         "title": "Bolgyók",
-        "photo_url": "...",
+        "photo_url": "https://res.cloudinary.com/djwpme8m9/image/upload/v1742814178/bolgyok_vpni3d.png",
         "repo-link": "https://github.com/BerzerkMode/bolgyok",
         "topics": [
             "fetch API",
@@ -103,20 +73,5 @@
             "select használata"
         ],
         "site-link": "https://berzerkmode.github.io/bolgyok/"
-    },
-    {
-        "id": "8",
-        "title": "",
-        "photo_url": "...",
-        "repo-link": "https://github.com/BerzerkMode/felmero",
-        "topics": [
-            "fetch API",
-            "Set adatszerkezet",
-            "Array.from()",
-            "radió gombok használata",
-            "checkboxok használata",
-            "select használata"
-        ],
-        "site-link": "https://berzerkmode.github.io/felmero/"
     }
 ]
